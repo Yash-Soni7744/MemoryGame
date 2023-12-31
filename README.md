@@ -11,7 +11,7 @@ Welcome to the Memory Game! This is a simple web-based memory card game where yo
 
 ## Access the Game
 
-You can play the game on Replit by clicking on the following link: [Memory Game](http://replit.com/@Yash-Soni7744/MemoryGame)
+You can play the game on Replit by clicking on the following link: [Memory Game](https://memorygame.yash-soni7744.repl.co/)
 
 ## Technologies Used
 
